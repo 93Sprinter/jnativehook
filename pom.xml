@@ -483,7 +483,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
+      </plugin> 
 
       <plugin>
         <artifactId>maven-install-plugin</artifactId>
